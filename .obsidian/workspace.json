@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adding Remote Origin.md",
+                "file": "Linking Git to GitHub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adding Remote Origin"
+              "title": "Linking Git to GitHub"
             }
           }
         ],
@@ -196,7 +196,7 @@
   "active": "2ef8b5f2b233d45c",
   "lastOpenFiles": [
     "Git Workflow.md",
-    "Adding Remote Origin.md",
+    "Linking Git to GitHub.md",
     "Git vs GitHub.md",
     "Git Settings.md",
     "Git All Commands.md",
