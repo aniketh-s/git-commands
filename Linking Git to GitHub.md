@@ -1,7 +1,7 @@
 
 #### Adding the remote repo link
 ```bash
-git add remote origin 'link_to_repo'
+git remote add origin 'link_to_repo'
 ```
 
 #### Pushing changes to GitHub
