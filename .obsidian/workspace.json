@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git diff.md",
+                "file": "Git Settings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git diff"
+              "title": "Git Settings"
             }
           }
         ]
@@ -166,13 +166,13 @@
   },
   "active": "2ef8b5f2b233d45c",
   "lastOpenFiles": [
+    "Git diff.md",
+    "Git Basic Commands.md",
     "sh.exe.stackdump",
     "Git Branching.md",
-    "Git diff.md",
     "Linking Git to GitHub.md",
     "GitHub Fork.md",
     "Git.md",
-    "Git Basic Commands.md",
     "Git Settings.md",
     "Git vs GitHub.md",
     "Git Workflow.md",

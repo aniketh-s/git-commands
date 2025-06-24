@@ -11,7 +11,7 @@
 - Global
 - Local
 
-**Spcifying Levels**: 
+**Specifying Levels**: 
 ```bash
 git config --global user.name="name" #Within double quotes cause of space b/w names
 git config --global user.email=email
@@ -31,3 +31,42 @@ To prevent end of line issues in git, we configure the end of line properly with
 By using core.autocrlf git adds/modifies end of line only when storing any code in the repo.
 Setting for **Windows: true**
 Setting for **Mac: input**
+
+#### Setting default code editor
+
+---
+
+## 🎯 1. Set VS Code as the **default Git editor**
+
+```bash
+git config --global core.editor "code --wait"
+```
+
+> ✅ This makes Git open commit messages, rebase instructions, etc., in VS Code.
+
+---
+
+## 🎯 2. Set VS Code as the **default Git difftool**
+
+```bash
+git config --global diff.tool vscode
+git config --global difftool.vscode.cmd "code --wait --diff \"$LOCAL\" \"$REMOTE\""
+git config --global difftool.prompt false
+```
+
+> ✅ This opens side-by-side diffs in VS Code when you run `git difftool`.
+
+---
+
+## 🎯 3. (Optional) Set VS Code as the **default Git mergetool**
+
+```bash
+git config --global merge.tool vscode
+git config --global mergetool.vscode.cmd "code --wait \"$MERGED\""
+```
+
+> ✅ This allows you to resolve merge conflicts in VS Code using `git mergetool`.
+
+---
+
+Let me know if you'd like a `.gitconfig` snippet instead or want to undo any of these later.
