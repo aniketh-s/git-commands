@@ -66,7 +66,3 @@ git config --global mergetool.vscode.cmd "code --wait \"$MERGED\""
 ```
 
 > ✅ This allows you to resolve merge conflicts in VS Code using `git mergetool`.
-
----
-
-Let me know if you'd like a `.gitconfig` snippet instead or want to undo any of these later.
