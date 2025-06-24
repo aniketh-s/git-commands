@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05340dc3edd975d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git"
-            }
-          },
-          {
-            "id": "069dea140836d5a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git Workflow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git Workflow"
-            }
-          },
-          {
             "id": "2ef8b5f2b233d45c",
             "type": "leaf",
             "state": {
@@ -48,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Linking Git to GitHub"
             }
-          },
-          {
-            "id": "f5fb085e0655c691",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git Branching.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git Branching"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,15 +164,15 @@
       "attachment-manager:Toggle visibility of attachment folder": false
     }
   },
-  "active": "f5fb085e0655c691",
+  "active": "2ef8b5f2b233d45c",
   "lastOpenFiles": [
-    "Linking Git to GitHub.md",
-    "Git Branching.md",
     "Git Workflow.md",
+    "Linking Git to GitHub.md",
+    "Git.md",
+    "Git Branching.md",
     "Git vs GitHub.md",
     "Git Settings.md",
     "Git All Commands.md",
-    "Git.md",
     "Git Settings.md_Attachments/Git Settings-20250528115611163.png",
     "Git Settings.md_Attachments/Git Settings-20250528115132438.png",
     "Git Settings.md_Attachments",
