@@ -1,7 +1,3 @@
 {
-<<<<<<< HEAD
-  "attachmentFolderPath": "./Git Configuration.md_Attachments"
-=======
-  "attachmentFolderPath": "./Git Branch Commands.md_Attachments"
->>>>>>> 0684f64e9a5561a03ba7ee0b8ca97364b7305f50
+  "attachmentFolderPath": "./Git diff.md_Attachments"
 }
