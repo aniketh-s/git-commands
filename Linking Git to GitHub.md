@@ -4,6 +4,11 @@
 git remote add origin 'link_to_repo'
 ```
 
+#### Verify remote origin by
+```bash
+git remote -v
+```
+
 #### Pushing changes to GitHub
 ```shell
 git push -u origin main
